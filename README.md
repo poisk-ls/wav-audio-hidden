@@ -14,21 +14,21 @@
 - pkg install python2
 - git clone https://github.com/poisk-ls/wav-audio-hidden.git
 - ls
-- cd HiddenWave
+- cd wav-audio-hidden
 
 ### Usage
 <p>Hiddenwave have two python scripts. </p>
 <ul>
-<li><b>HiddenWave.py :</b> for hide secret information.</li>
-<li><b>ExWave.py :</b> for extract secret information for wave audio file.</li>
+<li><b>wav-audio-hidden.py :</b> for hide secret information.</li>
+<li><b>glydehide.py :</b> for extract secret information for wave audio file.</li>
 </ul>
 
 ### Hide Secret Information in Wav Audio file
 
-- python3 HiddenWave.py -f 'Rauf Faik - колыбельная.wav' -m "Secret Msg" -o anyname.wav
+- python3 wav-audio-hidden.py -f 'Rauf Faik - колыбельная.wav' -m "Secret Msg" -o anyname.wav
 
 ### Extract Secret Information from Audio file
-- python3 ExWave.py -f anyname.wav
+- python3 glydehide.py -f anyname.wav
 
 #
 
