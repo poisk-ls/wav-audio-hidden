@@ -2,21 +2,21 @@
 
 
 # wav-audio-hidden
-Embedding secret messages in wave audio file
+- Embedding secret messages in wave audio file
 
 # What is wav-audio-hidden
-Claim wav-audio-hidden is a python based program for simple audio steganography. You can hide your secret text messages in wave audio file. So you can play this audio in any media player and secretly share your private message with any one.
+- Claim wav-audio-hidden is a python based program for simple audio steganography. You can hide your secret text messages in wave audio file. So you can play this audio in any media player and secretly share your private message with any one.
 
-## Requirement Installation
+### Requirement Installation
 
 - pkg install git
 - pkg install python
 - pkg install python2
-- git clone https://github.com/techchipnet/HiddenWave.git
+- git clone https://github.com/poisk-ls/wav-audio-hidden.git
+- ls
 - cd HiddenWave
 
-
-## Usage
+### Usage
 <p>Hiddenwave have two python scripts. </p>
 <ul>
 <li><b>HiddenWave.py :</b> for hide secret information.</li>
@@ -30,6 +30,7 @@ Claim wav-audio-hidden is a python based program for simple audio steganography.
 ### Extract Secret Information from Audio file
 - python3 ExWave.py -f anyname.wav
 
+#
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
 #### ____________________________________
