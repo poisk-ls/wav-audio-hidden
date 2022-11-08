@@ -1,8 +1,8 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+wav-audio-hidden+☣️)
 
 
-# wav-audio-hidden
-- Embedding secret messages in wave audio file
+>**wav-audio-hidden**
+>- Embedding secret messages in wave audio file
 
 # What is wav-audio-hidden
 - Claim wav-audio-hidden is a python based program for simple audio steganography. You can hide your secret text messages in wave audio file. So you can play this audio in any media player and secretly share your private message with any one.
